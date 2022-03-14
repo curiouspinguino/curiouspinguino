@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @curiouspinguino
+- 👀 I’m interested in learning, blogging, running, web development, data science, food
+- 🌱 I’m currently learning everything I can
+- 💞️ I’m looking to collaborate on building tools for learners/makers
+- 📫 How to reach me: username at gmail
